@@ -1,0 +1,30 @@
+TUTORIAL Cómo descargar e instalar Java 17 (Temurin)
+
+Paso 1 Ir a la página oficial
+Abre tu navegador y busca Temurin Java 17 download
+Entra en la página oficial de Eclipse Temurin (antes Adoptium).
+
+Paso 2 Elegir la versión
+
+ Selecciona Java 17 (LTS)
+ Elige tu sistema operativo (Windows, macOS o Linux)
+ Escoge la arquitectura (normalmente x64)
+
+Paso 3 Descargar el instalador
+Haz clic en el botón de descarga (.msi en Windows, .pkg en macOS, o .tar.gz en Linux).
+
+Paso 4 Instalar Java
+
+ Abre el archivo descargado
+ Sigue los pasos del instalador
+ Asegúrate de marcar la opción Add to PATH si aparece
+
+Paso 5 Verificar la instalación
+Abre la terminal o CMD y escribe
+
+java -version
+
+Si todo está correcto, verás algo como
+openjdk version 17...
+
+FIN

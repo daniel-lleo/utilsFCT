@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Usuario\Desktop\Instaladores\tecnomatAPP.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Usuario\Desktop\Instaladores\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Usuario\Desktop\Instaladores\jre\bin\javaw.exe (OK)
+Version string: 1.017.000_018 / 64-Bit (OK)
+Launcher:	C:\Users\Usuario\Desktop\Instaladores\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Usuario\Desktop\Instaladores\tecnomatAPP.exe"
+Args length:	60/32768 chars
+Exit code:	0

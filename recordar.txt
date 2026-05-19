@@ -1,0 +1,15 @@
+- Poner fecha de alta cuando se importa. ===
+- En la obra que se pueda editar ir a editar correctamente. === 
+- Invertir guardar por aceptar de posicion y al guardar en caso de que no se haya aceptado o validado es decir que haya allgun dato en el textfield que saque un mensaje: "tienes cantidades no guardadas, si continuas perderas la informacion."  ¿estas seguro de salir? si o no. ===== 
+- Cambiar nombre validar por añadir. ===
+- En compras campo validar cambiar por pedir. === 
+- Comlumna a pedir en listado cambiar a Pendiente === 
+- cambiar salida por unidades. === 
+- Cambiar de poscion pedido completo entre cantidad pendiente y fecha de pedido. ===
+- Cuando se importe el archivo. Fecha de pedido y fecha de de entrega. **** 
+- Crear informe de referencias de articulos pendientes, y que indique a que orden va  ===== 
+- Pedido de fuera de entrega. Genera un informe donde esten tdoos los articulos de todos los proyecto cuya fecha exceda fecha de entrega.
+
+
+----------------------------------------------------------------------------
+Cambiara cantidad de pedido por pendiente de recibir.
